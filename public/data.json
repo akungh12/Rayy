@@ -119,85 +119,6 @@
                 "menuContent": ""
             }
         ],
-        "FILE iPHONE": [
-            {
-                "id": 63,
-                "nama": "SET iOS PEPENG",
-                "harga": 6,
-                "hargaAsli": 6,
-                "deskripsiPanjang": "• melicinkan screen || • senang hs",
-                "createdAt": "2025-11-22T09:40:20.022Z",
-                "nomorWA": "",
-                "images": [],
-                "menuContent": ""
-            },
-            {
-                "id": 62,
-                "nama": "SET iOS PEPENG/SPAM",
-                "harga": 10,
-                "hargaAsli": 10,
-                "deskripsiPanjang": "• melicinkan screen || • drag sikit hs",
-                "createdAt": "2025-11-22T09:39:38.895Z",
-                "nomorWA": "",
-                "images": [],
-                "menuContent": ""
-            },
-            {
-                "id": 61,
-                "nama": "HEADTRICK V2 iOS",
-                "harga": 10,
-                "hargaAsli": 10,
-                "deskripsiPanjang": "• melicinkan screen || • drag sikit hs",
-                "createdAt": "2025-11-22T09:38:56.461Z",
-                "nomorWA": "",
-                "images": [],
-                "menuContent": ""
-            },
-            {
-                "id": 60,
-                "nama": "EASY DRAG iOS",
-                "harga": 10,
-                "hargaAsli": 10,
-                "deskripsiPanjang": "• drag sikit hs || • melincinkan screen",
-                "createdAt": "2025-11-22T09:37:28.996Z",
-                "nomorWA": "",
-                "images": [],
-                "menuContent": ""
-            },
-            {
-                "id": 59,
-                "nama": "SET iOS 0B51",
-                "harga": 15,
-                "hargaAsli": 15,
-                "deskripsiPanjang": "• drag menjadi lebih ringan || • screen licin  || • drag menjadi lebih licin",
-                "createdAt": "2025-11-22T09:36:53.886Z",
-                "nomorWA": "",
-                "images": [],
-                "menuContent": ""
-            },
-            {
-                "id": 58,
-                "nama": "AIM DRAG iOS V1",
-                "harga": 25,
-                "hargaAsli": 25,
-                "deskripsiPanjang": "• melicinkan screen || • drag menjadi lebih ringan || • drag sikit hs",
-                "createdAt": "2025-11-22T09:35:45.443Z",
-                "nomorWA": "",
-                "images": [],
-                "menuContent": ""
-            },
-            {
-                "id": 57,
-                "nama": "AIM DRAG iOS V2",
-                "harga": 35,
-                "hargaAsli": 35,
-                "deskripsiPanjang": "• melicinkan screen || • drag menjadi lebih ringan || • drag sikit hs || • lebih sedap dari v1",
-                "createdAt": "2025-11-22T09:34:51.802Z",
-                "nomorWA": "",
-                "images": [],
-                "menuContent": ""
-            }
-        ],
         "MOD MENU iPHONE (fluorite)": [
             {
                 "id": 48,
@@ -557,9 +478,88 @@
                 "images": [],
                 "menuContent": ""
             }
+        ],
+        "FILE/SET iPHONE": [
+            {
+                "id": 63,
+                "nama": "SET iOS PEPENG",
+                "harga": 6,
+                "hargaAsli": 6,
+                "deskripsiPanjang": "• melicinkan screen || • senang hs",
+                "createdAt": "2025-11-22T09:40:20.022Z",
+                "nomorWA": "",
+                "images": [],
+                "menuContent": ""
+            },
+            {
+                "id": 62,
+                "nama": "SET iOS PEPENG/SPAM",
+                "harga": 10,
+                "hargaAsli": 10,
+                "deskripsiPanjang": "• melicinkan screen || • drag sikit hs",
+                "createdAt": "2025-11-22T09:39:38.895Z",
+                "nomorWA": "",
+                "images": [],
+                "menuContent": ""
+            },
+            {
+                "id": 61,
+                "nama": "HEADTRICK V2 iOS",
+                "harga": 10,
+                "hargaAsli": 10,
+                "deskripsiPanjang": "• melicinkan screen || • drag sikit hs",
+                "createdAt": "2025-11-22T09:38:56.461Z",
+                "nomorWA": "",
+                "images": [],
+                "menuContent": ""
+            },
+            {
+                "id": 60,
+                "nama": "EASY DRAG iOS",
+                "harga": 10,
+                "hargaAsli": 10,
+                "deskripsiPanjang": "• drag sikit hs || • melincinkan screen",
+                "createdAt": "2025-11-22T09:37:28.996Z",
+                "nomorWA": "",
+                "images": [],
+                "menuContent": ""
+            },
+            {
+                "id": 59,
+                "nama": "SET iOS 0B51",
+                "harga": 15,
+                "hargaAsli": 15,
+                "deskripsiPanjang": "• drag menjadi lebih ringan || • screen licin  || • drag menjadi lebih licin",
+                "createdAt": "2025-11-22T09:36:53.886Z",
+                "nomorWA": "",
+                "images": [],
+                "menuContent": ""
+            },
+            {
+                "id": 58,
+                "nama": "AIM DRAG iOS V1",
+                "harga": 25,
+                "hargaAsli": 25,
+                "deskripsiPanjang": "• melicinkan screen || • drag menjadi lebih ringan || • drag sikit hs",
+                "createdAt": "2025-11-22T09:35:45.443Z",
+                "nomorWA": "",
+                "images": [],
+                "menuContent": ""
+            },
+            {
+                "id": 57,
+                "nama": "AIM DRAG iOS V2",
+                "harga": 35,
+                "hargaAsli": 35,
+                "deskripsiPanjang": "• melicinkan screen || • drag menjadi lebih ringan || • drag sikit hs || • lebih sedap dari v1",
+                "createdAt": "2025-11-22T09:34:51.802Z",
+                "nomorWA": "",
+                "images": [],
+                "menuContent": ""
+            }
         ]
     },
     "category_images": {
-        "FILE iPHONE": "https://api.rikishop.my.id/files/sw855e.jpg"
+        "FILE/SET iPHONE": "https://api.rikishop.my.id/files/sw855e.jpg"
     }
 }

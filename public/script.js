@@ -97,22 +97,23 @@ fetch('/api/data').then(res => res.json()).then(data => {
 
 function loadContacts(contacts) {
     const sidebarMenu = document.getElementById('sidebar-menu');
-    const footerSocials = document.getElementById('footer-socials');
-    sidebarMenu.innerHTML = ''; footerSocials.innerHTML = ''; 
+    sidebarMenu.innerHTML = ''; 
+    // Bagian footerSocials dihapus total agar tidak error
+    
     contacts.forEach(contact => {
         let iconSvg = ''; let color = '#fff'; 
         if(contact.type === 'wa') {
             color = '#25D366'; 
             iconSvg = '<path d="M12.04 2C6.58 2 2.13 6.45 2.13 11.91C2.13 13.66 2.59 15.36 3.45 16.86L2.05 22L7.3 20.62C8.75 21.41 10.38 21.83 12.04 21.83C17.5 21.83 21.95 17.38 21.95 11.92C21.95 9.27 20.92 6.78 19.05 4.91C17.18 3.03 14.69 2 12.04 2Z"/>';
-            footerSocials.innerHTML += `<a href="${contact.url}" class="social-btn btn-wa" style="display:inline-flex;align-items:center;gap:8px;padding:8px 16px;border-radius:8px;background:#25D366;color:white;text-decoration:none;font-weight:bold;margin-right:10px;"><svg style="width:16px;height:16px;fill:white" viewBox="0 0 24 24">${iconSvg}</svg> Whatsapp</a>`;
         } else if(contact.type === 'tg') {
             color = '#229ED9'; 
             iconSvg = '<path d="M9.78 18.65L10.03 14.39L17.85 7.33C18.19 7.03 17.77 6.86 17.33 7.13L7.67 13.21L3.54 11.92C2.64 11.64 2.63 11.02 3.74 10.59L19.9 4.36C20.65 4.09 21.31 4.54 21.06 5.68L18.3 18.68C18.09 19.63 17.5 19.86 16.69 19.41L12.5 16.32L10.47 18.27C10.25 18.49 10.06 18.65 9.78 18.65Z"/>';
-            footerSocials.innerHTML += `<a href="${contact.url}" class="social-btn btn-tele" style="display:inline-flex;align-items:center;gap:8px;padding:8px 16px;border-radius:8px;background:#229ED9;color:white;text-decoration:none;font-weight:bold;"><svg style="width:16px;height:16px;fill:white" viewBox="0 0 24 24">${iconSvg}</svg> Telegram</a>`;
         } else {
             color = '#ffffff';
             iconSvg = '<path d="M16 11c1.66 0 2.99-1.34 2.99-3S17.66 5 16 5c-1.66 0-3 1.34-3 3s1.34 3 3 3zm-8 0c1.66 0 2.99-1.34 2.99-3S9.66 5 8 5C6.34 5 5 6.34 5 8s1.34 3 3 3zm0 2c-2.33 0-7 1.17-7 3.5V19h14v-2.5c0-2.33-4.67-3.5-7-3.5z"/>';
         }
+        
+        // Hanya inject ke sidebar menu
         sidebarMenu.innerHTML += `<a href="${contact.url}" class="menu-item"><svg style="width:16px;height:16px;fill:${color}" viewBox="0 0 24 24">${iconSvg}</svg><div><div>${contact.title}</div>${contact.label ? `<div class="menu-label">${contact.label}</div>` : ''}</div></a>`;
     });
 }

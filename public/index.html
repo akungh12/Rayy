@@ -129,6 +129,9 @@
             <p style="text-align:center; font-size:12px; margin-bottom:10px;">Item: <span id="m-item" style="color:white">-</span></p>
             <form id="paymentForm" onsubmit="submitToWA(event)">
                 <input type="hidden" id="wa_item" name="item_name"><input type="hidden" id="wa_price" name="item_price"><input type="hidden" id="wa_url" name="website_url">
+                
+                <p style="text-align:left; font-size:12px; margin-bottom:5px; color:#ccc;">setelah transfer masukkan receipt disini:</p>
+                
                 <input type="file" name="payment_proof" accept="image/*" class="input-box" required style="margin-bottom:10px;">
                 <div style="display:flex; gap:10px;">
                     <button type="button" onclick="document.getElementById('uploadModal').style.display='none'" class="btn-buy" style="background:#333; color:white; flex:1;">Batal</button>

@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="ms">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>RAYYSETTING7 - Store Malaysia</title>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+      <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div id="loader-wrapper">
+        <div class="loader-spinner"></div>
+        <div class="loader-text">RAYY<span>SETTING</span><span class="num">7</span></div>
+    </div>
+
+    <div class="fab-container" id="fab-container">
+        <div class="fab-menu" id="fab-menu-items">
+            <a href="http://wa.me/601173686870" target="_blank" class="fab-item"><i class="fa-brands fa-whatsapp fab-wa"></i> WhatsApp</a>
+            <a href="https://t.me/rayysetting7" target="_blank" class="fab-item"><i class="fa-brands fa-telegram fab-tg"></i> Telegram</a>
+        </div>
+        <button class="fab-main-btn" onclick="toggleFab()"><i class="fa-solid fa-headset"></i> Bantuan</button>
+    </div>
+
+    <nav class="navbar">
+        <div class="nav-logo" onclick="goHome(true)">
+            <img src="images/logo-profil.png" alt="Logo" onerror="this.src='https://placehold.co/50x50/0050FF/ffffff?text=R7'">
+            <div class="nav-logo-text">RAYY<span>SETTING</span><span class="num">7</span></div>
+        </div>
+        <div class="nav-icon" onclick="toggleMenu()">
+            <svg style="width:24px;height:24px;fill:white;" viewBox="0 0 24 24"><path d="M3 18h18v-2H3v2zm0-5h18v-2H3v2zm0-7v2h18V6H3z"/></svg>
+        </div>
+    </nav>
+
+    <div class="sidebar-overlay" onclick="toggleMenu()"></div>
+    <div class="sidebar" id="sidebar">
+        <div class="sidebar-header">
+            <div class="sidebar-title" style="color:var(--primary)">MENU UTAMA</div>
+            <div onclick="toggleMenu()" style="font-size:24px;cursor:pointer;">&times;</div>
+        </div>
+        <div class="menu-list" id="sidebar-menu"></div>
+    </div>
+
+    <div class="container">
+        <div id="home-page">
+            <div class="banner">
+                <img src="images/banner.jpg" alt="Banner" onerror="this.src='https://placehold.co/600x200/222/0050FF?text=BANNER+RAYYSETTING7'">
+            </div>
+            <div class="running-text-container">
+                <div class="running-text">MENYEDIAKAN VOUCHER & FAIL MOD PERMAINAN — PROSES AUTOMATIK 24 JAM — SELAMAT & DIPERCAYAI</div>
+            </div>
+            <div class="section-title">🔥 PILIH ITEM</div>
+            <div id="category-list" class="game-grid"></div>
+            <div style="margin-top:40px;">
+                <div class="section-title">Benefit Beli Di RAYY SETTING 7</div>
+                <div class="info-grid">
+                    <div class="info-card"><div class="info-icon"><svg viewBox="0 0 24 24"><path d="M11.8 10.9c-2.27-.59-3-1.2-3-2.15 0-1.09 1.01-1.85 2.7-1.85 1.78 0 2.44.85 2.5 2.1h2.21c-.07-1.72-1.12-3.3-3.21-3.81V3h-3v2.16c-1.94.42-3.5 1.68-3.5 3.61 0 2.31 1.91 3.46 4.7 4.13 2.5.6 3 1.48 3 2.41 0 .69-.49 1.79-2.7 1.79-2.06 0-2.87-.92-2.98-2.1h-2.2c.12 2.19 1.76 3.42 3.68 3.83V21h3v-2.15c1.95-.37 3.5-1.5 3.5-3.55 0-2.84-2.43-3.81-4.7-4.4z"/></svg></div><div class="info-title">Harga Terendah</div><div class="info-desc">Jaminan harga terbaik</div></div>
+                    <div class="info-card"><div class="info-icon"><svg viewBox="0 0 24 24"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8zm.5-13H11v6l5.25 3.15.75-1.23-4.5-2.67z"/></svg></div><div class="info-title">Proses Sepantas Kilat</div><div class="info-desc">Penghantaran 24 Jam</div></div>
+                </div>
+            </div>
+            <div class="footer-section">
+                <div class="nav-logo" style="margin-bottom:15px;">
+                    <img src="images/logo-profil.png" alt="Logo" onerror="this.src='https://placehold.co/50x50/0050FF/ffffff?text=R7'">
+                    <div class="nav-logo-text">RAYY<span>SETTING</span><span class="num">7</span></div>
+                </div>
+                <p style="font-size:11px; color:var(--text-gray); line-height:1.6;">RAYY SETTING 7 adalah platform menjual fail skrip, mod menu yang trusted since 2024.</p>
+                <div id="footer-socials" style="margin-top:15px;"></div>
+                <div class="section-title" style="font-size:14px; margin-top:25px;">Kaedah Pembayaran</div>
+                <div class="slider-container">
+                    <div class="slider-track">
+                        <div class="slide"><img src="https://api.rikishop.my.id/files/zwy0kt.jpeg"></div>
+                        <div class="slide"><img src="https://api.rikishop.my.id/files/hlis03.jpeg"></div>
+                        <div class="slide"><img src="https://api.rikishop.my.id/files/wq3tep.jpeg"></div>
+                        <div class="slide"><img src="https://api.rikishop.my.id/files/1j0y0g.jpeg"></div>
+                        <div class="slide"><img src="https://api.rikishop.my.id/files/5v9yku.jpeg"></div>
+                        <div class="slide"><img src="https://api.rikishop.my.id/files/o8s6d7.jpeg"></div>
+                    </div>
+                </div>
+                <div class="copyright">Hak Cipta Terpelihara &copy; 2025 RAYY SETTING 7 Malaysia.</div>
+            </div>
+        </div>
+
+        <div id="detail-page">
+            <div class="back-btn" onclick="goHome(true)">← Kembali</div>
+            <div class="detail-header"><h2 id="d-category-name">...</h2></div>
+            <div class="detail-banner">
+                <img src="images/banner.jpg" alt="Detail Banner" onerror="this.src='https://placehold.co/600x200/222/0050FF?text=PRODUK+PREMIUM'">
+            </div>
+            <div class="tabs">
+                <div class="tab active" id="tab-desc" onclick="switchTab('desc')">Keterangan</div>
+                <div class="tab" id="tab-video" onclick="switchTab('video')">Video / Testimoni</div>
+            </div>
+            <div id="desc-area" class="content-area"><strong>Description Product : </strong><span id="d-desc-text">...</span></div>
+            <div id="video-area" class="content-area" style="display:none; text-align:center;">
+                <div style="margin-bottom:10px; font-weight:bold; color:var(--primary);">BUKTI TESTIMONI</div>
+                <div class="testi-grid" id="testi-list"></div>
+            </div>
+            <div class="step-box">
+                <div class="step-header"><div class="step-num">1</div><div class="step-title">Masukkan Nama</div></div>
+                <input type="text" id="user_id" class="input-box" placeholder="Masukkan Nama Anda">
+            </div>
+            <div class="step-box">
+                <div class="step-header"><div class="step-num">2</div><div class="step-title">Pilih Item Yang Ingin Dibeli</div></div>
+                <div id="variant-list" class="variant-grid"></div>
+            </div>
+            <div class="step-box">
+                <div class="step-header"><div class="step-num">3</div><div class="step-title">Payment Support</div></div>
+                <div style="background:#080c17; padding:12px; border:1px solid #fff; border-radius:8px; color:white; font-size:12px; font-weight:bold; display:flex; justify-content:space-between; align-items:center;">
+                    <div style="display:flex; flex-direction:column; gap:5px;"><span>DuitNow QR / FPX</span><div class="pay-logos-row"><img src="https://api.rikishop.my.id/files/zwy0kt.jpeg"><img src="https://api.rikishop.my.id/files/hlis03.jpeg"><img src="https://api.rikishop.my.id/files/zdaybg.jpeg"><img src="https://api.rikishop.my.id/files/1j0y0g.jpeg"></div></div>
+                    <span style="background:white; color:black; padding:2px 6px; font-size:10px; border-radius:4px;">AUTO</span>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="sticky-footer" class="sticky-footer" style="display:none;">
+        <div class="total-price">Jumlah<span id="display-price">RM 0</span></div>
+        <button onclick="openUploadModal()" class="btn-buy">BELI SEKARANG</button>
+    </div>
+
+    <div id="uploadModal" class="modal-overlay">
+        <div class="modal-box">
+            <h3 style="text-align:center; margin-bottom:15px; color:var(--primary);">SCAN QR CODE DIBAWAH UNTUK PAY</h3>
+            <div style="text-align:center; background:white; padding:10px; border-radius:8px; margin-bottom:15px; cursor:zoom-in;">
+                <p style="color:black; font-size:10px; margin-bottom:5px;">(Klik QR untuk Zoom)</p>
+                <img src="images/qris.jpg" style="width:150px; height:150px;" onclick="zoomQR(this)" onerror="this.src='https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=DUITNOW_ERROR'">
+            </div>
+            <p style="text-align:center; font-size:12px; margin-bottom:10px;">Item: <span id="m-item" style="color:white">-</span></p>
+            <form id="paymentForm" onsubmit="submitToWA(event)">
+                <input type="hidden" id="wa_item" name="item_name"><input type="hidden" id="wa_price" name="item_price"><input type="hidden" id="wa_url" name="website_url">
+                <input type="file" name="payment_proof" accept="image/*" class="input-box" required style="margin-bottom:10px;">
+                <div style="display:flex; gap:10px;">
+                    <button type="button" onclick="document.getElementById('uploadModal').style.display='none'" class="btn-buy" style="background:#333; color:white; flex:1;">Batal</button>
+                    <button type="submit" id="btn-submit" class="btn-buy" style="background:var(--primary); color:white; flex:1;">Hantar</button>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <div id="qrZoomModal" class="qr-zoom-overlay" onclick="closeZoomQR()">
+        <img id="zoomed-qr" src="" class="qr-zoom-img">
+    </div>
+
+ <script src="script.js"></script>
+</body>
+</html>

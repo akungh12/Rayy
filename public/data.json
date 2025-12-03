@@ -1,0 +1,562 @@
+{
+  "config": {
+    "brand_name": "RAYYSETTING",
+    "contacts": [
+      {
+        "title": "NOMBOR UTAMA",
+        "label": "Admin Support 1",
+        "url": "http://wa.me/601173686870",
+        "type": "wa"
+      },
+      {
+        "title": "NOMBOR KEDUA",
+        "label": "Admin Support 2",
+        "url": "http://wa.me/60175887357",
+        "type": "wa"
+      },
+      {
+        "title": "TELEGRAM",
+        "label": "Join Channel",
+        "url": "https://t.me/rayysetting7",
+        "type": "tg"
+      },
+      {
+        "title": "GROUP FILE V1",
+        "url": "https://chat.whatsapp.com/BojXBO64zsbI4entCNSbNO",
+        "type": "group"
+      },
+      {
+        "title": "GROUP FILE V2",
+        "url": "https://chat.whatsapp.com/Bq4CwsN1N3e9DNyQzOnWze",
+        "type": "group"
+      },
+      {
+        "title": "CHANNEL WHATSAPP",
+        "url": "https://whatsapp.com/channel/0029VbAVfx15vKAA3VX6hf2u",
+        "type": "channel"
+      }
+    ]
+  },
+  "categories": {
+    "MOD MENU iPHONE": [
+      {
+        "id": 48,
+        "nama": "1 DAY",
+        "harga": 15,
+        "hargaAsli": 15,
+        "deskripsiPanjang": "FITUR MOD MENU iPHONE || • auto headshot || • aimbot || • silent aim || • enemy esp (antena) || • no recoil || • hide when rec/ss || • no fps limit || • ice wall terbalik and dll ||  || SUPPORT iOS 15 - 26",
+        "createdAt": "2025-11-22T07:41:19.927Z",
+        "nomorWA": "",
+        "images": [],
+        "menuContent": "",
+        "category": "MOD MENU iPHONE",
+        "discountEndDate": null
+      },
+      {
+        "id": 47,
+        "nama": "7 DAY",
+        "harga": 45,
+        "hargaAsli": 45,
+        "deskripsiPanjang": "FITUR MOD MENU iPHONE || • auto headshot || • aimbot || • silent aim || • enemy esp (antena) || • no recoil || • hide when rec/ss || • no fps limit || • ice wall terbalik and dll ||  || SUPPORT iOS 15 - 26",
+        "createdAt": "2025-11-22T07:41:03.826Z",
+        "nomorWA": "",
+        "images": [],
+        "menuContent": "",
+        "category": "MOD MENU iPHONE",
+        "discountEndDate": null
+      },
+      {
+        "id": 46,
+        "nama": "31 DAY",
+        "harga": 95,
+        "hargaAsli": 95,
+        "deskripsiPanjang": "FITUR MOD MENU iPHONE || • auto headshot || • aimbot || • silent aim || • enemy esp (antena) || • no recoil || • hide when rec/ss || • no fps limit || • ice wall terbalik and dll ||  || SUPPORT iOS 15 - 26",
+        "createdAt": "2025-11-22T07:38:22.277Z",
+        "nomorWA": "",
+        "images": [],
+        "menuContent": "",
+        "category": "MOD MENU iPHONE",
+        "discountEndDate": null
+      },
+      {
+        "id": 45,
+        "nama": "GBOX 1 TAHUN (wajib beli untuk install)",
+        "harga": 45,
+        "hargaAsli": 45,
+        "deskripsiPanjang": "KEGUNAAN GBOX || • untuk install mod menu ios || • boleh pasang app mod / IPA tanpa Jailbreak. || • paling senang & selamat untuk pasang app luar dari App Store di iPHONE tanpa Jailbreak tanpa pc",
+        "createdAt": "2025-11-22T07:35:44.101Z",
+        "nomorWA": "",
+        "images": [],
+        "menuContent": "",
+        "category": "MOD MENU iPHONE",
+        "discountEndDate": null
+      }
+    ],
+    "MOD MENU ANDROID (hg cheat)": [
+      {
+        "id": 53,
+        "nama": "1 DAY",
+        "harga": 10,
+        "hargaAsli": 10,
+        "deskripsiPanjang": "FITUR HG CHEAT || • aimbot || • aimbot legit || • auto headshot || • antena (esp) and dll",
+        "createdAt": "2025-11-22T08:35:28.192Z",
+        "nomorWA": "",
+        "images": [],
+        "menuContent": ""
+      },
+      {
+        "id": 51,
+        "nama": "10 DAY",
+        "harga": 25,
+        "hargaAsli": 25,
+        "deskripsiPanjang": "FITUR HG CHEAT || • aimbot || • aimbot legit || • auto headshot || • antena (esp) and dll",
+        "createdAt": "2025-11-22T08:32:21.410Z",
+        "nomorWA": "",
+        "images": [],
+        "menuContent": ""
+      },
+      {
+        "id": 50,
+        "nama": "20 DAY",
+        "harga": 35,
+        "hargaAsli": 35,
+        "deskripsiPanjang": "FITUR HG CHEAT || • aimbot || • aimbot legit || • auto headshot || • antena (esp) and dll",
+        "createdAt": "2025-11-22T08:32:02.592Z",
+        "nomorWA": "",
+        "images": [],
+        "menuContent": ""
+      },
+      {
+        "id": 49,
+        "nama": "30 DAY",
+        "harga": 65,
+        "hargaAsli": 65,
+        "deskripsiPanjang": "FITUR HG CHEAT || • aimbot || • aimbot legit || • auto headshot || • antena (esp) and dll",
+        "createdAt": "2025-11-22T08:31:34.878Z",
+        "nomorWA": "",
+        "images": [],
+        "menuContent": ""
+      }
+    ],
+    "MOD MENU ANDROID (drip client)": [
+      {
+        "id": 56,
+        "nama": "1 DAY",
+        "harga": 15,
+        "hargaAsli": 15,
+        "deskripsiPanjang": "FITUR DRIP CLIENT || • aimbot legit || • auto headshot || • aim kill || • silent kill || • silent aim || • enemy esp and dll",
+        "createdAt": "2025-11-22T08:41:29.382Z",
+        "nomorWA": "",
+        "images": [],
+        "menuContent": ""
+      },
+      {
+        "id": 55,
+        "nama": "7 DAY",
+        "harga": 45,
+        "hargaAsli": 45,
+        "deskripsiPanjang": "FITUR DRIP CLIENT || • aimbot legit || • auto headshot || • aim kill || • silent kill || • silent aim || • enemy esp and dll",
+        "createdAt": "2025-11-22T08:38:07.591Z",
+        "nomorWA": "",
+        "images": [],
+        "menuContent": ""
+      },
+      {
+        "id": 54,
+        "nama": "30 DAY",
+        "harga": 80,
+        "hargaAsli": 80,
+        "deskripsiPanjang": "FITUR DRIP CLIENT || • aimbot legit || • auto headshot || • aim kill || • silent kill || • silent aim || • enemy esp and dll",
+        "createdAt": "2025-11-22T08:37:39.288Z",
+        "nomorWA": "",
+        "images": [],
+        "menuContent": ""
+      }
+    ],
+    "FILE iPHONE": [
+      {
+        "id": 63,
+        "nama": "SET iOS PEPENG",
+        "harga": 6,
+        "hargaAsli": 6,
+        "deskripsiPanjang": "• melicinkan screen || • senang hs",
+        "createdAt": "2025-11-22T09:40:20.022Z",
+        "nomorWA": "",
+        "images": [],
+        "menuContent": ""
+      },
+      {
+        "id": 62,
+        "nama": "SET iOS PEPENG/SPAM",
+        "harga": 10,
+        "hargaAsli": 10,
+        "deskripsiPanjang": "• melicinkan screen || • drag sikit hs",
+        "createdAt": "2025-11-22T09:39:38.895Z",
+        "nomorWA": "",
+        "images": [],
+        "menuContent": ""
+      },
+      {
+        "id": 61,
+        "nama": "HEADTRICK V2 iOS",
+        "harga": 10,
+        "hargaAsli": 10,
+        "deskripsiPanjang": "• melicinkan screen || • drag sikit hs",
+        "createdAt": "2025-11-22T09:38:56.461Z",
+        "nomorWA": "",
+        "images": [],
+        "menuContent": ""
+      },
+      {
+        "id": 60,
+        "nama": "EASY DRAG iOS",
+        "harga": 10,
+        "hargaAsli": 10,
+        "deskripsiPanjang": "• drag sikit hs || • melincinkan screen",
+        "createdAt": "2025-11-22T09:37:28.996Z",
+        "nomorWA": "",
+        "images": [],
+        "menuContent": ""
+      },
+      {
+        "id": 59,
+        "nama": "SET iOS 0B51",
+        "harga": 15,
+        "hargaAsli": 15,
+        "deskripsiPanjang": "• drag menjadi lebih ringan || • screen licin  || • drag menjadi lebih licin",
+        "createdAt": "2025-11-22T09:36:53.886Z",
+        "nomorWA": "",
+        "images": [],
+        "menuContent": ""
+      },
+      {
+        "id": 58,
+        "nama": "AIM DRAG iOS V1",
+        "harga": 25,
+        "hargaAsli": 25,
+        "deskripsiPanjang": "• melicinkan screen || • drag menjadi lebih ringan || • drag sikit hs",
+        "createdAt": "2025-11-22T09:35:45.443Z",
+        "nomorWA": "",
+        "images": [],
+        "menuContent": ""
+      },
+      {
+        "id": 57,
+        "nama": "AIM DRAG iOS V2",
+        "harga": 35,
+        "hargaAsli": 35,
+        "deskripsiPanjang": "• melicinkan screen || • drag menjadi lebih ringan || • drag sikit hs || • lebih sedap dari v1",
+        "createdAt": "2025-11-22T09:34:51.802Z",
+        "nomorWA": "",
+        "images": [],
+        "menuContent": ""
+      }
+    ],
+    "FILE ANDROID (aim head)": [
+      {
+        "id": 67,
+        "nama": "AIM HEAD 55%",
+        "harga": 5,
+        "hargaAsli": 5,
+        "deskripsiPanjang": "semakin tinggi % semakin gacor aim",
+        "createdAt": "2025-11-22T09:42:50.870Z",
+        "nomorWA": "",
+        "images": [],
+        "menuContent": ""
+      },
+      {
+        "id": 66,
+        "nama": "AIM HEAD 65%",
+        "harga": 15,
+        "hargaAsli": 15,
+        "deskripsiPanjang": "semakin tinggi % semakin gacor aim",
+        "createdAt": "2025-11-22T09:42:38.116Z",
+        "nomorWA": "",
+        "images": [],
+        "menuContent": ""
+      },
+      {
+        "id": 65,
+        "nama": "AIM HEAD 75%",
+        "harga": 25,
+        "hargaAsli": 25,
+        "deskripsiPanjang": "semakin tinggi % semakin gacor aim",
+        "createdAt": "2025-11-22T09:42:17.264Z",
+        "nomorWA": "",
+        "images": [],
+        "menuContent": ""
+      },
+      {
+        "id": 64,
+        "nama": "AIM HEAD 85%",
+        "harga": 35,
+        "hargaAsli": 35,
+        "deskripsiPanjang": "semakin tinggi % semakin gacor aim",
+        "createdAt": "2025-11-22T09:41:58.806Z",
+        "nomorWA": "",
+        "images": [],
+        "menuContent": ""
+      }
+    ],
+    "FILE ANDROID (headlock)": [
+      {
+        "id": 72,
+        "nama": "HEADLOCK VEZON 48%",
+        "harga": 5,
+        "hargaAsli": 5,
+        "deskripsiPanjang": "semakin tinggi “%” semakin gacor aim ||  || NOTE : || android version 14 keatas tak support",
+        "createdAt": "2025-11-22T09:49:29.873Z",
+        "nomorWA": "",
+        "images": [],
+        "menuContent": "",
+        "category": "FILE ANDROID (headlock)",
+        "discountEndDate": null
+      },
+      {
+        "id": 71,
+        "nama": "HEADLOCK STRIKE 58%",
+        "harga": 10,
+        "hargaAsli": 10,
+        "deskripsiPanjang": "semakin tinggi “%” semakin gacor aim ||  || NOTE : || android version 14 keatas tak support",
+        "createdAt": "2025-11-22T09:46:24.036Z",
+        "nomorWA": "",
+        "images": [],
+        "menuContent": "",
+        "category": "FILE ANDROID (headlock)",
+        "discountEndDate": null
+      },
+      {
+        "id": 70,
+        "nama": "HEADLOCK BLAZE 68%",
+        "harga": 20,
+        "hargaAsli": 20,
+        "deskripsiPanjang": "semakin tinggi “%” semakin gacor aim ||  || NOTE : || android version 14 keatas tak support",
+        "createdAt": "2025-11-22T09:46:03.234Z",
+        "nomorWA": "",
+        "images": [],
+        "menuContent": "",
+        "category": "FILE ANDROID (headlock)",
+        "discountEndDate": null
+      },
+      {
+        "id": 69,
+        "nama": "HEADLOCK EXTRA 78%",
+        "harga": 25,
+        "hargaAsli": 25,
+        "deskripsiPanjang": "semakin tinggi “%” semakin gacor aim ||  || NOTE : || android version 14 keatas tak support",
+        "createdAt": "2025-11-22T09:45:26.074Z",
+        "nomorWA": "",
+        "images": [],
+        "menuContent": "",
+        "category": "FILE ANDROID (headlock)",
+        "discountEndDate": null
+      },
+      {
+        "id": 68,
+        "nama": "HEADLOCK RS7 88%",
+        "harga": 35,
+        "hargaAsli": 35,
+        "deskripsiPanjang": "semakin tinggi “%” semakin gacor aim ||  || NOTE : || android version 14 keatas tak support",
+        "createdAt": "2025-11-22T09:44:55.336Z",
+        "nomorWA": "",
+        "images": [],
+        "menuContent": "",
+        "category": "FILE ANDROID (headlock)",
+        "discountEndDate": null
+      }
+    ],
+    "iNJECTOR ANDROID": [
+      {
+        "id": 80,
+        "nama": "1 DAY",
+        "harga": 3,
+        "hargaAsli": 3,
+        "deskripsiPanjang": "FITUR iNJECTOR ANDROID || • aim assist || • resolution || • smooth drag || • no recoil and dll",
+        "createdAt": "2025-11-22T10:04:14.789Z",
+        "nomorWA": "",
+        "images": [],
+        "menuContent": ""
+      },
+      {
+        "id": 79,
+        "nama": "3 DAY",
+        "harga": 6,
+        "hargaAsli": 6,
+        "deskripsiPanjang": "FITUR iNJECTOR ANDROID || • aim assist || • resolution || • smooth drag || • no recoil and dll",
+        "createdAt": "2025-11-22T10:04:04.480Z",
+        "nomorWA": "",
+        "images": [],
+        "menuContent": ""
+      },
+      {
+        "id": 78,
+        "nama": "7 DAY",
+        "harga": 10,
+        "hargaAsli": 10,
+        "deskripsiPanjang": "FITUR iNJECTOR ANDROID || • aim assist || • resolution || • smooth drag || • no recoil and dll",
+        "createdAt": "2025-11-22T10:03:48.619Z",
+        "nomorWA": "",
+        "images": [],
+        "menuContent": ""
+      },
+      {
+        "id": 77,
+        "nama": "15 DAY",
+        "harga": 18,
+        "hargaAsli": 18,
+        "deskripsiPanjang": "FITUR iNJECTOR ANDROID || • aim assist || • resolution || • smooth drag || • no recoil and dll",
+        "createdAt": "2025-11-22T10:03:30.616Z",
+        "nomorWA": "",
+        "images": [],
+        "menuContent": ""
+      },
+      {
+        "id": 76,
+        "nama": "20 DAY",
+        "harga": 20,
+        "hargaAsli": 20,
+        "deskripsiPanjang": "FITUR iNJECTOR ANDROID || • aim assist || • resolution || • smooth drag || • no recoil and dll",
+        "createdAt": "2025-11-22T10:03:06.688Z",
+        "nomorWA": "",
+        "images": [],
+        "menuContent": ""
+      },
+      {
+        "id": 75,
+        "nama": "30 DAY",
+        "harga": 25,
+        "hargaAsli": 25,
+        "deskripsiPanjang": "FITUR iNJECTOR ANDROID || • aim assist || • resolution || • smooth drag || • no recoil and dll",
+        "createdAt": "2025-11-22T10:02:49.053Z",
+        "nomorWA": "",
+        "images": [],
+        "menuContent": ""
+      },
+      {
+        "id": 74,
+        "nama": "60 DAY",
+        "harga": 45,
+        "hargaAsli": 45,
+        "deskripsiPanjang": "FITUR iNJECTOR ANDROID || • aim assist || • resolution || • smooth drag || • no recoil and dll",
+        "createdAt": "2025-11-22T10:02:33.137Z",
+        "nomorWA": "",
+        "images": [],
+        "menuContent": ""
+      },
+      {
+        "id": 73,
+        "nama": "PERMANENT",
+        "harga": 150,
+        "hargaAsli": 150,
+        "deskripsiPanjang": "FITUR iNJECTOR ANDROID || • aim assist || • resolution || • smooth drag || • no recoil and dll",
+        "createdAt": "2025-11-22T10:02:04.323Z",
+        "nomorWA": "",
+        "images": [],
+        "menuContent": ""
+      }
+    ],
+    "FILE ANDROID (ui sensix)": [
+      {
+        "id": 84,
+        "nama": "STANDARD 90%",
+        "harga": 5,
+        "hargaAsli": 5,
+        "deskripsiPanjang": "% itu adalah kelicinan screen supaya drag menjadi lebih ringan dan meningkatkan performance, semakin tinggi % performance dan tahap kelicinan itu semakin tinggi.",
+        "createdAt": "2025-11-22T10:08:20.577Z",
+        "nomorWA": "",
+        "images": [],
+        "menuContent": ""
+      },
+      {
+        "id": 83,
+        "nama": "HIGH 135%",
+        "harga": 15,
+        "hargaAsli": 15,
+        "deskripsiPanjang": "% itu adalah kelicinan screen supaya drag menjadi lebih ringan dan meningkatkan performance, semakin tinggi % performance dan tahap kelicinan itu semakin tinggi.",
+        "createdAt": "2025-11-22T10:08:04.636Z",
+        "nomorWA": "",
+        "images": [],
+        "menuContent": ""
+      },
+      {
+        "id": 82,
+        "nama": "ULTRA 190%",
+        "harga": 25,
+        "hargaAsli": 25,
+        "deskripsiPanjang": "% itu adalah kelicinan screen supaya drag menjadi lebih ringan dan meningkatkan performance, semakin tinggi % performance dan tahap kelicinan itu semakin tinggi.",
+        "createdAt": "2025-11-22T10:07:42.262Z",
+        "nomorWA": "",
+        "images": [],
+        "menuContent": ""
+      },
+      {
+        "id": 81,
+        "nama": "EXTREME 270%",
+        "harga": 35,
+        "hargaAsli": 35,
+        "deskripsiPanjang": "% itu adalah kelicinan screen supaya drag menjadi lebih ringan dan meningkatkan performance, semakin tinggi % performance dan tahap kelicinan itu semakin tinggi.",
+        "createdAt": "2025-11-22T10:07:20.793Z",
+        "nomorWA": "",
+        "images": [],
+        "menuContent": ""
+      }
+    ],
+    "FILE ANDROID (headlock v2)": [
+      {
+        "id": 90,
+        "nama": "HEADLOCK SCARE",
+        "harga": 5,
+        "hargaAsli": 5,
+        "deskripsiPanjang": "semakin mahal harga file semakin gacor aim ||  || NOTE : || android version 14 keatas tak support",
+        "createdAt": "2025-12-01T19:37:43.436Z",
+        "nomorWA": "",
+        "images": [],
+        "menuContent": ""
+      },
+      {
+        "id": 89,
+        "nama": "HEADLOCK TAXA",
+        "harga": 10,
+        "hargaAsli": 10,
+        "deskripsiPanjang": "semakin mahal harga file semakin gacor aim ||  || NOTE : || android version 14 keatas tak support",
+        "createdAt": "2025-12-01T19:36:35.409Z",
+        "nomorWA": "",
+        "images": [],
+        "menuContent": ""
+      },
+      {
+        "id": 88,
+        "nama": "HEADLOCK PREMIUM",
+        "harga": 20,
+        "hargaAsli": 20,
+        "deskripsiPanjang": "semakin mahal harga file semakin gacor aim ||  || NOTE : || android version 14 keatas tak support",
+        "createdAt": "2025-12-01T19:36:13.266Z",
+        "nomorWA": "",
+        "images": [],
+        "menuContent": ""
+      },
+      {
+        "id": 87,
+        "nama": "HEADLOCK MYTHIC",
+        "harga": 25,
+        "hargaAsli": 25,
+        "deskripsiPanjang": "semakin mahal harga file semakin gacor aim ||  || NOTE : || android version 14 keatas tak support",
+        "createdAt": "2025-12-01T19:35:48.398Z",
+        "nomorWA": "",
+        "images": [],
+        "menuContent": ""
+      },
+      {
+        "id": 86,
+        "nama": "HEADLOCK SECRET",
+        "harga": 35,
+        "hargaAsli": 35,
+        "deskripsiPanjang": "semakin mahal harga file semakin gacor aim ||  || NOTE : || android version 14 keatas tak support",
+        "createdAt": "2025-12-01T19:35:27.524Z",
+        "nomorWA": "",
+        "images": [],
+        "menuContent": ""
+      }
+    ]
+  }
+}
